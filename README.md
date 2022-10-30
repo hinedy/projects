@@ -5,7 +5,7 @@ list of all my public projects
 A Chrome extension using JavaScript that enables you to set timers for Pomodoro-like cycles of work/break sessions.
 
 ### [C$50 Finance](https://github.com/hinedy/finance)
-CS50 finance, A web app via which you can manage portfolios of stocks, using IEX Cloud API in a virtual trading environment. 
+A web app via which you can manage portfolios of stocks, using IEX Cloud API in a virtual trading environment. 
 
 ### [Just Kitten!](https://github.com/hinedy/just-kitten)
 A javaScript meme picker furr cats. 
