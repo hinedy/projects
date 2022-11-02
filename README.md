@@ -1,6 +1,9 @@
 # Projects
 list of all my public projects
 
+### [Mobile Ordering App](https://hinedy.github.io/mobile-ordering-app/)
+A Scrimba Solo project 
+
 ### [WorkBreak Timer](https://github.com/hinedy/WorkBreak-Timer)
 A Chrome extension using JavaScript that enables you to set timers for Pomodoro-like cycles of work/break sessions.
 
