@@ -1,6 +1,9 @@
 # Projects
 list of all my public projects
 
+### [Color Scheme Generator](https://github.com/hinedy/Color-Scheme-Generator)
+A JavaScript app to generate color schemes based on color-wheel relations using The Color API.
+
 ### [TinDog](https://github.com/hinedy/TinDog)
 Tinder For Dogs.
 
