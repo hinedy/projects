@@ -1,6 +1,9 @@
 # Projects
 list of all my public projects
 
+### [Movie Watchlist](https://hinedy.github.io/Movie-Watchlist/)
+A solo project practising RESTful API implementation.
+
 ### [Color Scheme Generator](https://github.com/hinedy/Color-Scheme-Generator)
 A JavaScript app to generate color schemes based on color-wheel relations using The Color API.
 
@@ -11,7 +14,7 @@ Tinder For Dogs.
 A fully responsive three page blog using HTML/CSS. 
 
 ### [Mobile Ordering App](https://hinedy.github.io/mobile-ordering-app/)
-A Scrimba Solo project.
+A Scrimba Solo project on DOM manipulation.
 
 ### [WorkBreak Timer](https://github.com/hinedy/WorkBreak-Timer)
 A Chrome extension using JavaScript that enables you to set timers for Pomodoro-like cycles of work/break sessions.
