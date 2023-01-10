@@ -1,6 +1,10 @@
 # Projects
 list of all my public projects
+### [Quizzical](https://github.com/hinedy/quizzical)
+A trivia quiz app built using React.js & OPENTDB API 
 
+### [Tenzies](https://github.com/hinedy/tenzies)
+Tenzies. A react.js dice game.
 ### [Movie Watchlist](https://hinedy.github.io/Movie-Watchlist/)
 A solo project practising RESTful API implementation.
 
