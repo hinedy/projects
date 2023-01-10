@@ -1,7 +1,7 @@
 # Projects
 list of all my public projects
 ### [Quizzical](https://github.com/hinedy/quizzical)
-A trivia quiz app built using React.js & OPENTDB API 
+A trivia quiz app built using React.js & OpenTDB API 
 - Live Demo : https://quizzical-hinedy.netlify.app/
 <hr/>
 
