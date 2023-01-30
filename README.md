@@ -1,5 +1,10 @@
 # Projects
 list of all my public projects
+### [PicSome](https://github.com/hinedy/PicSome)
+A mock E-commerce site built using React.js 
+- live Demo : https://picsome-hinedy.netlify.app/
+<hr/>
+
 ### [Quizzical](https://github.com/hinedy/quizzical)
 A trivia quiz app built using React.js & OpenTDB API 
 - Live Demo : https://quizzical-hinedy.netlify.app/
